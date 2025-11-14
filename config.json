@@ -18,7 +18,7 @@
     "bold": 700,
     "extrabold": 800
   },
-  "line_height": 1.0,
+  "line_height": 1.05,
   "feature_freeze": {
     "cv01": "ignore",
     "cv02": "ignore",
@@ -80,13 +80,13 @@
     "extra_args": []
   },
   "cn": {
-    "enable": false,
+    "enable": true,
     "with_nerd_font": true,
     "fix_meta_table": true,
     "clean_cache": false,
     "narrow": false,
     "use_hinted": false,
     "use_static_base_font": true,
-    "scale_factor": 1.0
+    "scale_factor": 1.1
   }
 }
